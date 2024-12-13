@@ -11,9 +11,9 @@ const int ldrPin = 4;  // Pino utilizado para controle do sensor ldr
 int threshold=600;
 
 // Constantes para o tempo de cada led 
-const int TEMPO_VERMELHO = 6000;
+const int TEMPO_VERMELHO = 5000;
 const int TEMPO_AMARELO = 2000;
-const int TEMPO_VERDE = 2000;
+const int TEMPO_VERDE = 3000;
 const int modoNoturno = 1000;
 
 
