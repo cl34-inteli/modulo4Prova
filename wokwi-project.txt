@@ -1,0 +1,8 @@
+Downloaded from https://wokwi.com/projects/413645635576658945
+
+Simulate this project on https://wokwi.com
+
+[wokwi]
+version = 1
+firmware = 'path-to-your-firmware.hex'
+elf = 'path-to-your-firmware.elf'
